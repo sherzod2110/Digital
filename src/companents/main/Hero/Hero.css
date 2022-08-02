@@ -1,0 +1,62 @@
+.hero-sec {
+  background-image: url("../Hero/img/bgimg.png");
+  width: 100%;
+  height: 700px;
+}
+
+.hero-heading {
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 76px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #000000;
+}
+
+.hero-inner {
+  width: 732px;
+  padding-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.heading-spn {
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 76px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #165df5;
+}
+
+.hero-text {
+  width: 600px;
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: rgba(0, 0, 0, 0.6);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-btn {
+  width: 189px;
+  height: 50px;
+  background: #165df5;
+  border: 0.5px solid #165df5;
+  border-radius: 50px;
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  color: rgba(255, 255, 255, 0.8);
+  border: none;
+}
